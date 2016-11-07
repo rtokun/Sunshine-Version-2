@@ -1,3 +1,8 @@
+Sunshine Updated
+================
+
+This is an updated version of Sunshine App which can be imported to Android Studio without any issues according to date 7 Nov 2016.
+
 Sunshine
 ========
 
